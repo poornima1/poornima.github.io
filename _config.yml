@@ -1,20 +1,20 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+url: 'http://financialanalysis.net'
+baseurl: '/' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Poornima Ramamoorthy  ## put your name
+title: 'Financial Analysis Professional'  ## your title
+location: Ann Arbor, MI
 
 
 ## Social Profiles
 facebook: http://www.facebook.com  ## your facebook account url
 twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
+linkedin: https://www.linkedin.com/in/poornima11/
 dribbble: http://www.dribble.com  ## you dribbble account url
 foursquare: http://www.foursquare.com  ## your foursquare account url
 
